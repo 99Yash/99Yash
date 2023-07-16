@@ -3,7 +3,7 @@
 ### Software Developer
 
 * 👨‍💻  Mostly into webapps and the React ecosystem.
-* 🌍  Based in India <span style="font-size: 0.6em;">IN</span>
+* 🌍  Based in India
 
 ### Tech I'm passionate about
 <div style="display: flex;gap: 14px;">
