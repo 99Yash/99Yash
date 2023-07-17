@@ -2,7 +2,7 @@
 
 ### Software Developer
 
-* 👨‍💻  Mostly into webapps and the React ecosystem.
+* 👨‍💻  Very much into the React ecosystem.
 * 🌍  Based in India 🇮🇳
 
 ### Tech I'm passionate about
