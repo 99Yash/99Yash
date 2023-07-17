@@ -2,8 +2,8 @@
 
 ### Software Developer
 
-* 👨‍💻  Very much into the React ecosystem.
 * 🌍  Based in India 🇮🇳
+* 👨‍💻  Very much into the React ecosystem.
 
 ### Tech I'm passionate about
 <div style="display: flex;gap: 14px;">
