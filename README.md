@@ -5,7 +5,7 @@
 * 🌍  Based in India. 21 y.o
 * 👨‍💻  Very much into the React ecosystem.
 
-### Tech I'm passionate about
+### Tech I'm passionate about:
 <div style="display: flex;">
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
   <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
@@ -16,10 +16,6 @@
  <a href="https://planetscale.com"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="48" height="48" alt="PlanetScale" /></a>
 </div>
 
-### Cuurently working on:
-<h6>
-  an Instagram clone using tRPC, Prisma, Server Components along with the beautiful ShadCN UI.
-</h1>
 
 <!--
 **99Yash/99Yash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
