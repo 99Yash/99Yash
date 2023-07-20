@@ -17,7 +17,7 @@
 </div>
 
 ### Cuurently working on:
-<h1>
+<h6>
   an Instagram clone using tRPC, Prisma, Server Components along with the beautiful ShadCN UI.
 </h1>
 
