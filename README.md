@@ -2,7 +2,7 @@
 
 ### Software Developer
 
-* 🌍  Based in India 🇮🇳
+* 🌍  Based in India. 21 y.o
 * 👨‍💻  Very much into the React ecosystem.
 
 ### Tech I'm passionate about
@@ -16,7 +16,10 @@
  <a href="https://planetscale.com"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="48" height="48" alt="PlanetScale" /></a>
 </div>
 
-
+### Cuurently working on:
+<h1>
+  an Instagram clone using tRPC, Prisma, Server Components along with the beautiful ShadCN UI.
+</h1>
 
 <!--
 **99Yash/99Yash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
