@@ -2,8 +2,8 @@
 
 ### Software Developer
 
-* 🌍  Based in India. 21 y.o
 * 👨‍💻  Very much into the React ecosystem.
+* 🌍  India.
 
 ### Tech I'm in love with:
 <div style="display: flex;">
