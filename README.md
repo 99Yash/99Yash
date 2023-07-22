@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yash
 
-### Software Developer
+### Self-taught Software Developer
 
 * 👨‍💻  Very much into the React ecosystem.
 * 🌍  India.
