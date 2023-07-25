@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yash
+### Hi 👋 I'm Yash
 
 ### Self-taught Software Developer
 
