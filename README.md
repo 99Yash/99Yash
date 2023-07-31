@@ -5,7 +5,7 @@
 * 👨‍💻  Very much into the React ecosystem alongwith TRPC & Server Components.
 * 🌍  India.
 
-### Tech I'm in love with:
+### Tech I've used to build stuff:
 <div style="display: flex;">
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
   <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
