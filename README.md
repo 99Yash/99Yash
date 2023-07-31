@@ -2,7 +2,7 @@
 
 ### Self-taught Software Developer
 
-* 👨‍💻  Very much into the React ecosystem.
+* 👨‍💻  Very much into the React ecosystem. ALongwith TRPC & Server Components.
 * 🌍  India.
 
 ### Tech I'm in love with:
