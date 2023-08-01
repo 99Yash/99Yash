@@ -1,4 +1,3 @@
-### Hi 👋 I'm Yash. 
 ### Self-taught Software Developer
 
 * 👨‍💻  Very much into the React ecosystem alongwith TRPC & Server Components.
