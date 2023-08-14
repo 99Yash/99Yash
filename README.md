@@ -1,7 +1,7 @@
 ### Tech I use to build stuff now
 <div style="display: flex;">
    <a href="https://trpc.io"><img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" width="48" height="48" alt="tRPC"/></a>
-  <a href="https://github.com/t3-oss"><img src="https://avatars.githubusercontent.com/u/108266839?s=200&v=4" height="48" width="48 /></a>
+  <a href="https://github.com/t3-oss"><img src="https://avatars.githubusercontent.com/u/108266839?s=200&v=4" height="48" width="48" /></a>
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
   <a href="https://www.nextjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="48" height="48" alt="NextJs" /></a>
    <a href="https://prisma.io"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="48" height="48" alt="Prisma" /></a>
