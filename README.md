@@ -7,7 +7,7 @@
    <a href="https://prisma.io"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="48" height="48" alt="Prisma" /></a>
  <a href="https://planetscale.com"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="48" height="48" alt="PlanetScale" /></a>
  <a href="https://www.postgresql.org"><img src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" width="48" height="48" alt="PostgresQL" /></a>
-   
+    <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 </div>
 
 ### Tech I can use to build stuff again
