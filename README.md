@@ -12,9 +12,9 @@
 <div style="display: flex;">
  
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="36" height="36" alt="MongoDB" /></a>
  <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+  <a href="https://www.tailwindcss.com"><img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="40" height="40" alt="TailwindCSS" /></a>
 </div>
 
 
